@@ -1,0 +1,11 @@
+.env
+database.db
+node_modules
+backend-Hobby-Session-Planner/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
